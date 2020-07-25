@@ -1,11 +1,8 @@
-# Python Training for Cloud & DevOps
+# Python for DevOps
 This training content is primarily developed for engineers who are working in DevOps & Cloud domain and want to learn Python. That may help them to either automate lot of the stuff they work on in their respective domain or give them new opportunies in their career.
 
 ### Pre-requisites
 Basic understanding of any programming language
-
-### Format of the Training
-Online training (Casual - no formal stuff)
 
 ### What we'll cover in this training
 
@@ -104,3 +101,4 @@ Online training (Casual - no formal stuff)
 - https://realpython.com/
 - https://gist.github.com/kenjyco/69eeb503125035f21a9d
 - https://github.com/jerry-git/learn-python3
+- https://www.programiz.com/python-programming
