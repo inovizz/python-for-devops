@@ -73,7 +73,7 @@ Basic understanding of any programming language
     - MRO
     - Polymorphism
     
-- Session 10
+- Session 10 (TBA)
     - Working with command line (sys module) 
     - Working with os module
     - Working with datetime and time module
@@ -82,32 +82,32 @@ Basic understanding of any programming language
     - Urllib (small intro)
     - XML parser (small intro) 
 
-- Session 11
+- Session 11 (TBA)
     - REST API
     - Introduction to flask (APIs)
     - Introduction to Requests library
     - Intro to Authentication & Authorization 
- 
-- Sesseion 12
+  
+- Sesseion 12 (TBA)
     - Unit testing
     - Logging
     - Mocking
     - Fixtures 
 
-- Session 13
+- Session 13 (TBA)
     - Ftplib (for FTP)
     - Subprocess module
     - Paramiko
 
-- Session 14
+- Session 14 (TBA)
     - Cron jobs using Python
     - Health check and alerts using Python
     - Intro to CLI frameworks (cement)
 
-- Session 15
+- Session 15 (TBA)
     - Intro to multithreading
 
-- Session 16
+- Session 16 (TBA)
     - Multiprocessing library 
 
 ----------------------------------------------------
