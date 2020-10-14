@@ -6,59 +6,73 @@ Basic understanding of any programming language
 
 ### What we'll cover in this training
 
-- Session 1
-    - Jupyter Notebook
+- [Session 1](https://github.com/inovizz/python-for-devops/blob/master/notebooks/1_funamentals_of_python.ipynb)
     - Data types 
     - Data Structures (Collection Objects) 
     - Namespaces
     - Mutable and Immutable objects 
 
--  Session 2 
+-  [Session 2](https://github.com/inovizz/python-for-devops/blob/master/notebooks/2_controlflow_loops_functions.ipynb) 
     - If/else (Control Flow)
     - Loops
     - Functions
 
-- Session 3
+- [Session 3](https://github.com/inovizz/python-for-devops/blob/master/notebooks/3_exceptions_filehandling.ipynb) & [CLI App - Demo](https://github.com/inovizz/python-for-devops/tree/master/apps/todo-cli)
     - Input/Output
+    - File Handling
     - Developing a CLI App in Python
 
-- Session 4
+- [Session 4](https://github.com/inovizz/python-for-devops/blob/master/notebooks/3_exceptions_filehandling.ipynb)
     - Import
     - Exception handling 
     - File handling
  
-- Session 5
-    - Use of __main__ function
-    - Map reduce and filter functions
-    - Lambda functions
-    - Comprehensions (list, dictionary, set)
-    - Modules & Packages 
+- [Session 5](https://github.com/inovizz/python-for-devops/blob/master/notebooks/4_more_on_functions.ipynb)
+    - More on functions
+    - Arbitrary Arguments
+    - Keyword Arguments
+    - Positional Arguments
 
-- Session 6
-    - Creting a CLI app in Python continued
-    - Use of argparse library
-    - Use database instead of file operatoons
+- [Session 6](https://github.com/inovizz/python-for-devops/blob/master/notebooks/5_map_reduce_filter_lambda_scoping.ipynb)
+    - Lambda Functions
+    - Map, Filter & Redume
+    - Comprehensions
+    - Scope - (Global, Local & Nonlocal)
 
-- Session 7
+- [Session 7](https://github.com/inovizz/python-for-devops/blob/master/notebooks/6_imports_module_packages.ipynb)
+    - Understanding \_\_name_\_ builtin
+    - Use of \_\_name_\_ == "\_\_main_\_"
+    - Modules & Packages
+    - How import works
+
+- [Session 8](https://github.com/inovizz/python-for-devops/blob/master/notebooks/7_decorators_generators_iterators.ipynb)
     - Decorators
     - Iterators
     - Generators
-    - Debugging (pdb module)
+    - PDB module
 
-- Session 8
-    - Intro to PyPi and Pip
-    - Virtual Environments
-    - How to package your Python App 
+- [Session 9](https://github.com/inovizz/python-for-devops/blob/master/notebooks/8_packaging_vnenv.ipynb)
+    - PyPi & pip
+    - How pip install works?
+    - What is virtualenv
+    - Creating your own Package
 
-- Session 9 
-    - Classes
+- [Session 10](https://github.com/inovizz/python-for-devops/blob/master/notebooks/9_object_oriented_programming.ipynb)
+    - Class
     - Objects
-    - Instance variable & class variable
-    - Class method, static method and instance method 
-    - Inheritance and multiple inheritance
-    - Setters and Getters
-    - Intro to Data Classes 
-
+    - Instance & Class Attributes
+    - Self keyword
+    - \_\_init\_\_ & \_\_new\_\_ methods
+    - classmethod, staticmethod & instance methods
+    - Practical usage of @classmethod
+    - Inheritance
+    - Super Method
+    - What super method can do for you?
+    - Encapsulation
+    - Multiple Inheritance
+    - MRO
+    - Polymorphism
+    
 - Session 10
     - Working with command line (sys module) 
     - Working with os module
