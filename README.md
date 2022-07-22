@@ -116,3 +116,4 @@ Basic understanding of any programming language
 - https://gist.github.com/kenjyco/69eeb503125035f21a9d
 - https://github.com/jerry-git/learn-python3
 - https://www.programiz.com/python-programming
+- https://www.scaler.com/topics/python/
